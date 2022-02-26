@@ -1,8 +1,8 @@
 # Android-studio-socket
 ## 程式簡介
 ### 簡述
-* 使用`Socket`來實作`Android chat APP`
-* 使用`Android studio`當作開發環境
+* `Android studio`開發
+* 使用`Socket`實作`Android chat APP`
 ### 範例圖
 ![20211204_060223](https://user-images.githubusercontent.com/93152909/155802829-612c664a-0b7c-486a-8b6e-849a33df4584.gif)
 
